@@ -1,3 +1,3 @@
 # galilee-git-test
 
-Je suis le Boss!
+<s>Je suis le Boss!</s> Non tu n'est le Boss
